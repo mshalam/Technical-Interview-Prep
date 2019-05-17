@@ -49,7 +49,6 @@ A naive approach would be to have what is essentially a linked list where each n
 
 ---
 
-class: center middle
 ## Code
 
 ---
