@@ -1,4 +1,3 @@
-class: center middle
 ## Priority Queue
 
 ---
