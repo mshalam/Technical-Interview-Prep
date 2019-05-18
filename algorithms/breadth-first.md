@@ -1,4 +1,3 @@
-class: center middle
 
 ## Tree Traversal
 
