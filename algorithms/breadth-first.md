@@ -63,7 +63,6 @@ d.children.push(i, j);
 
 ---
 
-class: center middle
 
 ## Interviewer Guide
 
