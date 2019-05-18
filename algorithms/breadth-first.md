@@ -70,7 +70,7 @@ d.children.push(i, j);
 
 ### RE
 
-- This differs from the traversal we worked on in junior phase in that each node may have any number of children
+- This differs from BST traversal in that each node may have any number of children
 
 - You may need to remind your interviewee of what the different types of traversal mean
 
