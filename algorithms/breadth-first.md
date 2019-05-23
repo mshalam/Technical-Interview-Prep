@@ -145,7 +145,7 @@ const depthFirstPostOrder = (startingNode, callback) => {
 ```
 
 ---
-
+ 
 ## Summary
 
 Big O
