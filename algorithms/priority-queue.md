@@ -1,6 +1,6 @@
 ## Priority Queue
 
----
+--- 
    
 ## Definitions 
 
