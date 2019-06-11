@@ -1,5 +1,3 @@
-class: center, middle
-
 # String Search
 
 ### (ie indexOf)
