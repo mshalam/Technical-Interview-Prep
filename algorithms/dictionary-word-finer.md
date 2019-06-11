@@ -31,7 +31,6 @@ definitionOf('wizbing', dictionary); // should return undefined
 
 ---
 
-class: center middle
 
 # Interviewer Guide
 
