@@ -155,7 +155,6 @@ Note that this is a **max heap**, in which the maximum-priority element ends up 
 
 ---
 
-class: center middle
 ## Heap Approach
 
 ---
@@ -188,7 +187,6 @@ Returning the maximum-priority value is easy since the heap-order-property guara
 
 ---
 
-class: center middle
 ## Code
 
 ---
