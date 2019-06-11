@@ -1,7 +1,7 @@
 # Prefix Search 
 
 ---
-
+ 
 ## Prompt
 
 Given a "book" and a string to search for, return an array of the character indices for every word in the book that begins with that string.
