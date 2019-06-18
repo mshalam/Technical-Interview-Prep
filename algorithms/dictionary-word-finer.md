@@ -1,11 +1,5 @@
 # Dictionary Word Finder
 
-<style>
-  .remark-code {
-    white-space: pre-wrap;
-  }
-</style>
-
 ---
 
 # Interviewer Prompt
