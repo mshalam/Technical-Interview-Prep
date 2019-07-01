@@ -2,7 +2,7 @@
 ## Tree Traversal 
    
 ---
- 
+  
 ## Interviewer Prompt
 
 Today you will write a series of iterator functions for trees.
