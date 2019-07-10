@@ -1,4 +1,3 @@
-[Slides](http://slides.com/mschreiber/reacto-4-7#/)
 
 # Prompt
 
