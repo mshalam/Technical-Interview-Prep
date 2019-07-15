@@ -1,6 +1,6 @@
 
 ## Tree Traversal  
-    
+     
 ---
    
 ## Interviewer Prompt
