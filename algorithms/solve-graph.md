@@ -18,9 +18,6 @@ In the example below, there is a connection from vertex a to vertex b and a conn
 }
 ```
 
-???
-
-Any presenter notes can go after the three question marks
 
 ---
 
