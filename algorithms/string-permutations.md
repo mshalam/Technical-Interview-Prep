@@ -101,8 +101,6 @@ Here is a solution that implicitly keeps the results sorted as it generates them
 
 Without sorting before we start finding permutations, we will get n! _ log(n!) -- we have an array that is n! in length at that point. If we sort before our sort time is n _ log(n). In both situations, n is the length of the input string. Overall, finding all string permutations is n!
 
-[Video Solution](https://www.youtube.com/watch?v=tqH1hAmK7DM)
-
 ---
 
 ```js
