@@ -3,7 +3,7 @@
 ---   
     
 ## Definitions  
- 
+  
 A *queue* is a data structure that stores pieces of data and returns them in the same order in which they were inserted.  One way of implementing them is as a linked list.
 
 A *priority queue* is a data structure that takes a priority value with each piece of data and returns the data in order of priority.
