@@ -1,7 +1,7 @@
 ## Solving Graphs
 
 ---
-
+ 
 ## Interviewer Prompt
 
 Write a function that determines if a path exists between two vertices of a directed graph.
