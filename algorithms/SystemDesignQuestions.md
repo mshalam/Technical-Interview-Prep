@@ -1,5 +1,5 @@
 # Think/Pair/Share
-  
+   
 In previous cohorts, we went over throttling, load balancers, queues and caches. Because coming up with an ERD and system APIs (for system design) and coming up with class diagrams and activity diagrams (for OOP design) would take up a lot of time and there is a lot of material in the lecture, we can reserve some time in the TC/A on Fridays to either add on ideas like caches or load balancers to the system design REACTO or to introduce some scenarios on how to apply system design principles or both.
 
   
