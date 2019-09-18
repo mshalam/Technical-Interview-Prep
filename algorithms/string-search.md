@@ -1,5 +1,5 @@
 # String Search
-
+ 
 ### (ie indexOf)
 
 --- 
