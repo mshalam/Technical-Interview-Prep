@@ -15,7 +15,7 @@ stringPermutations('nn'); //should return  [ 'nn' ]
 ```
 
 ---
-
+ 
 # Resources
 
 - [Slides](http://slides.com/seemaullal/reacto#/)
