@@ -2,8 +2,6 @@
 
 ---
 
-class: center, middle
-
 # Prompt
 
 Given two sorted arrays of numbers, return an array containing all values that appear in *both* arrays. The numbers in the resulting array (the "intersection") may be returned in any order, they needn't be sorted.
@@ -13,7 +11,6 @@ You can assume that each array has only unique values (no duplicates within the 
 Follow-up: now consider what you might do if the given arrays are *not* sorted.
 
 ---
-class: center, middle
 
 # Examples
 
