@@ -1,7 +1,7 @@
 # Intersection
 
 ---
-
+ 
 # Prompt
 
 Given two sorted arrays of numbers, return an array containing all values that appear in *both* arrays. The numbers in the resulting array (the "intersection") may be returned in any order, they needn't be sorted.
