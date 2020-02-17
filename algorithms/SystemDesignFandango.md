@@ -1,5 +1,5 @@
 # System Design 
-      
+       
 System Design questions tests the candidate ability to be able to create a system based on a user prompt. A user prompt is either a client telling you what they want or a team making an assumption of what a potential user might want in an idea. What makes this different from an OOP Design question is that this focuses less on the application components themselves and more of the flow of data and how we scale that data based on our understanding of the various trade offs as we modify our system. For the purposes of the REACTO, we will focus mostly on schema design and API design for the main chunk. We can leave a small discussion at the end for scalability but that will be discussed mostly on Friday for our think, pair, share exercise.
  
 ## Design Fandango
