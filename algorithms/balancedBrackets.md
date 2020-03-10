@@ -1,5 +1,5 @@
 
-# Prompt   
+# Prompt    
                          
 Write a function that determines whether an input string has balanced brackets.
  
